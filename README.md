@@ -2,7 +2,7 @@
 
 # Pre-requisites
 
-1. A Jenkins server 
+#1. A Jenkins server 
 1. A EC2 instance (Application server) and deploy node.js 
 
 ### Setup nodejs packages on jenkins (needed for build) and application server (needed to deploy)
@@ -40,4 +40,5 @@ Using simple "hello world" application from the [nodejs.org](https://nodejs.org/
    tar czf easyio.tar-$BUILD_NUMBER.gz node_modules main.js package.json public LICENSE
    ```
 
-## To Deploy on nodejs application server 
+## To Deploy on nodejs application server
+#i am in vignan
